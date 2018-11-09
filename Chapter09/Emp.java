@@ -1,0 +1,47 @@
+final class Emp { 
+    private String name; 
+    private int age; 
+ 
+    public Emp(String name, int age) { 
+        this.name = name; 
+        this.age = age; 
+    } 
+ 
+    // accessor methods - getName, getAge 
+    public String getName() { 
+        return name; 
+    } 
+ 
+    public int getAge() { 
+        return age; 
+    } 
+ 
+    // mutator methods - setName, setAge 
+    public void setName() { 
+        this.name = name; 
+    } 
+ 
+    public void setAge() { 
+        this.age = age; 
+    } 
+ 
+    public boolean equals(Object obj) { 
+        if (obj == null || (!(obj instanceof Emp))) 
+            return false; 
+        else { 
+            if ( ( ((Emp)obj).getName().equals(this.name) && 
+                 ( ((Emp)obj).getAge() ) == this.age)) { 
+                return true; 
+            } 
+            else 
+                return false; 
+        } 
+    } 
+ 
+    public String toString() { 
+        return name + ":" + age; 
+    } 
+    public int hashCode() { 
+        // ..code 
+    } 
+} 
