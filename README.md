@@ -47,7 +47,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products
 * Mastering Java 11 - Second Edition [[Packt]](https://www.packtpub.com/application-development/mastering-java-11-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789137613) [[Amazon]](https://www.amazon.com/dp/1789137616)
 
-* Mastering Microservices with Java - Third Edition [[Packt]](https://www.packtpub.com/application-development/mastering-microservices-java-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789530728) [[Amazon]](https://www.amazon.com/dp/1785285173)
+* Mastering Microservices with Java - Third Edition [[Packt]](https://www.packtpub.com/application-development/mastering-microservices-java-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789530728) [[Amazon]](https://www.amazon.com/dp/1789530725)
 
 ## Get to Know the Author
 **Mala Gupta**
