@@ -35,7 +35,7 @@ var age = null;      // variable assigned a null value
 **Following is what you need for this book:**
 If you’re an executive or solutions architect responsible for technology selection or Java migration decisions, this Java book is for you. You’ll also benefit from this book if you’re a computer science enthusiast curious to learn about the latest and upcoming Java features. This book will help you migrate your solutions from Java 8 or older to the latest Java release.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-17).
 ### Software and Hardware List
 | Sr. No | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
