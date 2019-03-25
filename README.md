@@ -1,5 +1,4 @@
 # Java 11 and 12 – New Features
-Java 11 and 12 – New Features, published by Packt
 
 <a href="https://www.packtpub.com/application-development/java-11-quick-start?utm_source=github&utm_medium=repository&utm_campaign=9781789133271 "><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10460_MockupCover.png" alt="Java 11 Quick Start" height="256px" align="right"></a>
 
