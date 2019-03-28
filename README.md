@@ -1,8 +1,8 @@
 # Java 11 and 12 – New Features
 
-<a href="https://www.packtpub.com/application-development/java-11-quick-start?utm_source=github&utm_medium=repository&utm_campaign=9781789133271 "><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10460_MockupCover.png" alt="Java 11 Quick Start" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/application-development/java-11-quick-start?utm_source=github&utm_medium=repository&utm_campaign=9781789133271 "><img src="https://prod.packtpub.com/media/catalog/product/cache/a22c7d190d97ca25f5f1089471ab8502/9/7/9781789133271_new_cover_0.png" alt="Java 11 Quick Start" height="256px" align="right"></a>
 
-This is the code repository for [Java 11 and 12 – New Features](https://www.packtpub.com/application-development/java-11-quick-start?utm_source=github&utm_medium=repository&utm_campaign=9781789133271), published by Packt.
+This is the code repository for [Java 11 and 12 – New Features](https://prod.packtpub.com/in/application-development/java-11-and-12-new-features?utm_source=github&utm_medium=repository&utm_campaign=9781789133271), published by Packt.
 
 **Learn about Project Amber and the latest developments in the Java language and platform**
 
