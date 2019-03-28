@@ -1,6 +1,11 @@
 import java.time.LocalDateTime;
 import java.util.HashMap;
 
+/**
+ * Java version required to compile and use this code: Java 10 or later.
+ * @author  Mala Gupta
+ */
+
 public class TypeInferenceWithVar2 {
     public static void main(String[] args) {
 
