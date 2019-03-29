@@ -1,0 +1,3 @@
+package inheritance;
+
+class Measurement {}
