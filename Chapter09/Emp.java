@@ -26,11 +26,11 @@ final class Emp {
     } 
  
     public boolean equals(Object obj) { 
-        if (obj == null || (!(obj instanceof Emp))) 
+        if (obj == null || (!(obj instanceof EmpPOJO)))
             return false; 
         else { 
-            if ( ( ((Emp)obj).getName().equals(this.name) && 
-                 ( ((Emp)obj).getAge() ) == this.age)) { 
+            if ( ( ((EmpPOJO)obj).getName().equals(this.name) &&
+                 ( ((EmpPOJO)obj).getAge() ) == this.age)) {
                 return true; 
             } 
             else 
