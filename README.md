@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/java-11-and-12-new-features/9781789133271)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1789133270).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Java 11 and 12 – New Features
 
 <a href="https://www.packtpub.com/application-development/java-11-quick-start?utm_source=github&utm_medium=repository&utm_campaign=9781789133271 "><img src="https://prod.packtpub.com/media/catalog/product/cache/a22c7d190d97ca25f5f1089471ab8502/9/7/9781789133271_new_cover_0.png" alt="Java 11 Quick Start" height="256px" align="right"></a>
