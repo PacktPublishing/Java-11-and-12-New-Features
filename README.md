@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B10460?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Java 11 and 12 – New Features
 
 <a href="https://www.packtpub.com/application-development/java-11-quick-start?utm_source=github&utm_medium=repository&utm_campaign=9781789133271 "><img src="https://prod.packtpub.com/media/catalog/product/cache/a22c7d190d97ca25f5f1089471ab8502/9/7/9781789133271_new_cover_0.png" alt="Java 11 Quick Start" height="256px" align="right"></a>
