@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789133271)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Java 11 and 12 – New Features
 
 <a href="https://www.packtpub.com/application-development/java-11-quick-start?utm_source=github&utm_medium=repository&utm_campaign=9781789133271 "><img src="https://prod.packtpub.com/media/catalog/product/cache/a22c7d190d97ca25f5f1089471ab8502/9/7/9781789133271_new_cover_0.png" alt="Java 11 Quick Start" height="256px" align="right"></a>
